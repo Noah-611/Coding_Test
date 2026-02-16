@@ -7,3 +7,4 @@ while cnt < T:
         print(10)
     else:
         print(num)
+    cnt +=1
